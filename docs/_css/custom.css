@@ -1,0 +1,10 @@
+.wy-nav-top { background: #FFFFFF; }
+.wy-side-nav-search { background: #FFFFFF; }
+.wy-nav-side { color: #000000; }
+.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a { color: #000000; }
+.wy-side-nav-search>div.version { color: rgba(0,0,0,0.3); }
+a:visited { color: #6021BE; }
+a:hover { color: #FF8800; }
+a { color: #000000; }
+body { color: #000000; }
+.wy-side-nav-search input[type=text] { border-color: #000000 }
