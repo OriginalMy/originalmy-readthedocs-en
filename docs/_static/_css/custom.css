@@ -1,10 +1,10 @@
 .wy-nav-top { background: #FFFFFF; }
 .wy-side-nav-search { background: #FFFFFF; }
-nav.wy-nav-side { color: #000000; }
+wy-nav-side { background: #000000; }
 .wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a { color: #000000; }
 .wy-side-nav-search>div.version { color: rgba(0,0,0,0.3); }
-a:visited { color: #6021BE; }
-a:hover { color: #FF8800; }
+a:visited { color: #721FA8; }
+a:hover { color: #6021BE; }
 a { color: #000000; }
 body { color: #000000; }
 .wy-side-nav-search input[type=text] { border-color: #000000 }
