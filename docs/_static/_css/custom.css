@@ -3,7 +3,8 @@
 .wy-nav-side { background: #000000; }
 .wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a { color: #000000; }
 .wy-side-nav-search>div.version { color: rgba(0,0,0,0.3); }
-a:visited { color: #b645ff; }
+;;a:visited { color: #b645ff; }
+a:visited { color: #999; }
 a:hover { color: #999; }
 a { color: #000000; }
 body { color: #000000; }
