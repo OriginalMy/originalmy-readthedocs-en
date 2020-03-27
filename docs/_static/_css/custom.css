@@ -8,5 +8,5 @@ a:visited { color: #999; }
 a:hover { color: #999; }
 a { color: #000000; }
 body { color: #000000; }
-.wy-side-nav-search input[type=text] { border-color: #000000 }
-.wy-menu-vertical a { color: #ffffff }
+.wy-side-nav-search input[type=text] { border-color: #000000; }
+.wy-menu-vertical a { color: #ffffff; }
